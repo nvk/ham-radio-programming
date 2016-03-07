@@ -1,0 +1,37 @@
+name,Receive Frequency,Comment,Skip,Bank
+CJCL,0.59,Rogers Communications (sports),Skip,Yes
+CFTR,0.68,Rogers Communications (news),Skip,Yes
+CFZM,0.74,ZoomerMedia (pop standards),Skip,Yes
+CJBC,0.86,Ici Radio-Canada Première (public news/talk (French)),Skip,Yes
+CFRB,1.01,Bell Media Radio (news/talk),Skip,Yes
+CHUM,1.05,Bell Media Radio (sports),Skip,Yes
+CJRU,1.28,Ryerson University (campus radio),Skip,Yes
+CHKT,1.43,Fairchild Radio (multilingual),Skip,Yes
+CHIN,1.54,CHIN Radio/TV International (multilingual),Skip,Yes
+CHHA,1.61,San Lorenzo Latin American Community Centre (community radio (Spanish)),Skip,Yes
+CHTO,1.69,Canadian Hellenic Toronto Radio (multilingual),Skip,Yes
+CIND-FM,88.1,Rock 95 Broadcasting (indie rock),Skip,Yes
+CIRV-FM,88.9,Frank Alvarez (multilingual),Skip,Yes
+CIUT-FM,89.5,University of Toronto (campus radio),Skip,Yes
+CJBC-FM,90.3,Ici Musique (public music (French)),Skip,Yes
+CJRT-FM,91.1,CJRT-FM Inc. (jazz),Skip,Yes
+CHIN-1-FM,91.9,CHIN Radio/TV International (multilingual),Skip,Yes
+CKIS-FM,92.5,Rogers Communications (CHR),Skip,Yes
+CFXJ-FM,93.5,Newcap Broadcasting (urban music),Skip,Yes
+CBL-FM,94.1,CBC Radio 2 (public music),Skip,Yes
+CJKX-FM-2,95.9,Durham Radio (country),Skip,Yes
+CFMZ-FM,96.3,ZoomerMedia (classical),Skip,Yes
+CKHC-FM,96.9,Humber College (campus radio),Skip,Yes
+CHBM-FM,97.3,Newcap Broadcasting (classic hits),Skip,Yes
+CHFI-FM,98.1,Rogers Communications (soft adult contemporary),Skip,Yes
+CKFG-FM,98.7,Intercity Broadcasting Network (multilingual),Skip,Yes
+CBLA-FM,99.1,CBC Radio One (public news/talk),Skip,Yes
+CKFM-FM,99.9,Bell Media Radio (hot adult contemporary),Skip,Yes
+CHIN-FM,100.7,CHIN Radio/TV International (multilingual),Skip,Yes
+CJSA-FM,101.3,Diversity Media Group (multilingual),Skip,Yes
+CIRR-FM,103.9,Evanov Communications (LGBT-targeted CHR),Skip,Yes
+CHUM-FM,104.5,Bell Media Radio (hot adult contemporary),Skip,Yes
+CHOQ-FM,105.1,Cooperative Radio-Toronto (community radio (French)),Skip,Yes
+CHRY-FM,105.5,York University (campus radio),Skip,Yes
+CKAV-FM,106.5,Aboriginal Voices (First Nations),Skip,Yes
+CILQ-FM,107.1,Corus Entertainment (classic rock),Skip,Yes

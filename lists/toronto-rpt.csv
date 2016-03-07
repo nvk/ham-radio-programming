@@ -1,0 +1,45 @@
+Channel Number,Receive Frequency,Transmit Frequency,Offset Direction,Name,Tone Mode,CTCSS,Rx CTCSS,DCS,RX DCS,Comment,Bank
+1,53.35,52.35,-,VA3GTU,Tone,103.5,88.5,23,23,Toronto,Yes
+2,53.39,52.39,-,VA3ECT,,88.5,88.5,23,23,Toronto,Yes
+3,144.94,145.54,+,VE3YYZ,None,88.5,88.5,23,23,Toronto,Yes
+4,145.11,144.51,-,VE3WOO,Tone,82.5,88.5,23,23,Toronto,Yes
+5,145.13,144.53,-,VA3GTU,T SQL,103.5,103.5,23,23,Toronto,Yes
+6,145.23,144.63,-,VE3OBN,Tone,103.5,88.5,23,23,Toronto,Yes
+7,145.41,144.81,-,VE3TWR,T SQL,103.5,103.5,23,23,Toronto CN Tower,Yes
+8,146.94,146.34,-,VE3TOR,Tone,103.5,88.5,23,23,Toronto,Yes
+9,146.985,146.385,-,VE3SKY,T SQL,103.5,103.5,23,23,Toronto,Yes
+10,147.18,147.78,+,VE3YYZ,None,88.5,88.5,23,23,Toronto,Yes
+11,224.3,222.7,-,VA3WHQ,Tone,103.5,88.5,23,23,Toronto,Yes
+12,224.4,222.8,-,VE3KRC,Tone,103.5,88.5,23,23,Toronto,Yes
+13,224.84,223.24,-,VE3UKW,None,88.5,88.5,23,23,Toronto,Yes
+14,224.98,223.38,-,VE3TTR,None,88.5,88.5,23,23,Toronto,Yes
+15,441.95,446.95,+,VA3XPR,None,88.5,88.5,23,23,Toronto St. James Town,Yes
+16,442.175,447.175,+,VA3UKW,Tone,136.5,88.5,23,23,Toronto,Yes
+17,442.3375,447.3375,+,VA3XPR,None,88.5,88.5,23,23,Toronto First Canadian Place,Yes
+18,442.375,447.375,+,VA3GTU,Tone,103.5,88.5,23,23,Toronto,Yes
+19,442.4125,447.4125,+,VA3SLU,None,88.5,88.5,23,23,Toronto,Yes
+20,442.6,447.6,+,VE3CAY,Tone,103.5,88.5,23,23,Toronto,Yes
+21,442.65,447.65,+,VA3GTU,Tone,100,88.5,23,23,Toronto,Yes
+22,442.7,447.7,+,VE3YYZ,None,88.5,88.5,23,23,Toronto,Yes
+23,442.75,447.75,+,VE3WOO,Tone,103.5,88.5,23,23,Toronto,Yes
+24,442.975,447.975,+,VA3GTU,Tone,103.5,88.5,23,23,Toronto,Yes
+25,443.025,448.025,+,VA3SCR,Tone,103.5,88.5,23,23,Toronto,Yes
+26,443.05,448.05,+,VE3YYZ,T SQL,103.5,103.5,23,23,Toronto,Yes
+27,443.1,448.1,+,VE3SKI,None,88.5,88.5,23,23,Toronto,Yes
+28,443.325,448.325,+,VE3VOP,T SQL,103.5,103.5,23,23,Toronto,Yes
+29,443.3875,448.3875,+,VA3XPS,None,88.5,88.5,23,23,Toronto St. Jamestown neighbourhood,Yes
+30,443.4,448.4,+,VE3ELB,Tone,131.8,88.5,23,23,Toronto,Yes
+31,443.5,448.5,+,VE3NIB,Tone,103.5,88.5,23,23,Toronto  1st Canadian Pl,Yes
+32,443.65,448.65,+,VE3NOR,Tone,103.5,88.5,23,23,Toronto,Yes
+33,443.9,448.9,+,VE3WOO,Tone,127.3,88.5,23,23,Toronto First Canadian Pl,Yes
+34,444.4,449.4,+,VE3TWR,Tone,103.5,88.5,23,23,Toronto CN Tower,Yes
+35,444.45,449.45,+,VA3BMI,Tone,103.5,88.5,23,23,Toronto,Yes
+36,444.475,449.475,+,VE3URU,Tone,103.5,88.5,23,23,Toronto,Yes
+37,444.6375,449.6375,+,VE3YYZ,Tone,103.5,88.5,23,23,Toronto First Canadian Pl,Yes
+38,444.7,449.7,+,VE3RAK,Tone,103.5,88.5,23,23,Toronto,Yes
+39,444.775,449.775,+,VA3ATL,Tone,110.9,88.5,23,23,Toronto Four Season Hotel and Residences,Yes
+40,444.85,449.85,+,VE3UKW,Tone,136.5,88.5,23,23,Toronto,Yes
+41,444.925,449.925,+,VA3DHJ,T SQL,100,100,23,23,Toronto,Yes
+42,1250,1230,-,VE3YYZ,None,88.5,88.5,23,23,Toronto,Yes
+43,1284,1264,-,VA3GTU,Tone,103.5,88.5,23,23,Toronto,Yes
+44,1287.5,1267.5,-,VE3YYZ,None,88.5,88.5,23,23,Toronto,Yes
