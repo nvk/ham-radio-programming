@@ -14,5 +14,9 @@ __|__
 
 ## Files:
 
-- lists: freq lists from the net or hand made for speciic/misc interests
+- lists: freq lists
 - vx-8dr: programing file and csv backup
+- FT-991
+- FTM-350R
+- X6/KD
+
