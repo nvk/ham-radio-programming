@@ -1,0 +1,80 @@
+Frequency Output,Frequency Input,FCC Callsign,Agency/Category,Description,Alpha Tag,PL Tone,Mode,Class Station Code,Tag
+156.02500,0.00000,,Marine Channels Marine VHF 187,Ch 60  Shipshore  telephone Ship TX,Marine 60 TX,,FM,M,Transportation
+156.05000,0.00000,,Marine Channels Marine VHF 187,Ch 1  Shipshore  telephone Ship TX,Marine 1 TX,,FM,M,Transportation
+156.07500,0.00000,,Marine Channels Marine VHF 187,Ch 61A  Canadian Coast Guard,Marine 61A,,FM,BM,Transportation
+156.10000,0.00000,,Marine Channels Marine VHF 187,Ch 2  Shipshore  telephone Ship TX,Marine 2 TX,,FM,M,Transportation
+156.12500,0.00000,,Marine Channels Marine VHF 187,Ch 62A  Canadian Coast Guard,Marine 62A,,FM,BM,Transportation
+156.15000,0.00000,,Marine Channels Marine VHF 187,Ch 3  Shipshore  telephone Ship TX,Marine 3 TX,,FM,M,Transportation
+156.17500,0.00000,,Marine Channels Marine VHF 187,Ch 63A  IntershipShipshore  commercial,Marine 63A,,FM,BM,Transportation
+156.20000,0.00000,,Marine Channels Marine VHF 187,Ch 4A  Canadian Coast Guard  authorized stations,Marine 4A ,,FM,BM,Transportation
+156.22500,0.00000,,Marine Channels Marine VHF 187,Ch 64  Shipshore  telephone Ship TX,Marine 64 TX,,FM,M,Transportation
+156.25000,0.00000,,Marine Channels Marine VHF 187,Ch 5  Shipshore  telephone Ship TX,Marine 5 TX,,FM,M,Transportation
+156.27500,0.00000,,Marine Channels Marine VHF 187,Ch 65A  Port Operation Canadian Coast Guard,Marine 65A,,FM,BM,Transportation
+156.30000,0.00000,,Marine Channels Marine VHF 187,Ch 6  Intership Safety  primary working,Marine 6,,FM,M,Transportation
+156.32500,0.00000,,Marine Channels Marine VHF 187,Ch 66A  Marinas  British Columbia,Marine 66A,,FM,BM,Transportation
+156.35000,0.00000,,Marine Channels Marine VHF 187,Ch 7  Shipshore  telephone Ship TX,Marine 7 TX,,FM,M,Transportation
+156.37500,0.00000,,Marine Channels Marine VHF 187,Ch 67  IntershipShipshore,Marine 67,,FM,BM,Transportation
+156.40000,0.00000,,Marine Channels Marine VHF 187,Ch 8  Intership  commercial,Marine 8,,FM,BM,Transportation
+156.42500,0.00000,,Marine Channels Marine VHF 187,Ch 68  IntershipShipshore  noncommercial,Marine 68,,FM,BM,Transportation
+156.45000,0.00000,,Marine Channels Marine VHF 187,Ch 9  IntershipShipshore,Marine 9,,FM,BM,Transportation
+156.47500,0.00000,,Marine Channels Marine VHF 187,Ch 69  IntershipShipshore,Marine 69,,FM,BM,Transportation
+156.50000,0.00000,,Marine Channels Marine VHF 187,Ch 10  IntershipShipshore  commercial,Marine 10,,FM,BM,Transportation
+156.52500,0.00000,,Marine Channels Marine VHF 187,Ch 70  Digital Selective Calling  Distress and Safety,Marine 70,,FM,BM,Transportation
+156.55000,0.00000,,Marine Channels Marine VHF 187,Ch 11  Vessel Traffic System,Marine 11,,FM,BM,Transportation
+156.57500,0.00000,,Marine Channels Marine VHF 187,Ch 71  Vessel Traffic System,Marine 71,,FM,BM,Transportation
+156.60000,0.00000,,Marine Channels Marine VHF 187,Ch 12  Vessel Traffic System,Marine 12,,FM,BM,Transportation
+156.62500,0.00000,,Marine Channels Marine VHF 187,Ch 72  Intership,Marine 72,,FM,M,Transportation
+156.65000,0.00000,,Marine Channels Marine VHF 187,Ch 13  Bridge to bridge  Safety of Navigation,Marine 13,,FM,M,Transportation
+156.67500,0.00000,,Marine Channels Marine VHF 187,Ch 73  IntershipShipshore,Marine 73,,FM,BM,Transportation
+156.70000,0.00000,,Marine Channels Marine VHF 187,Ch 14  Vessel Traffic System,Marine 14,,FM,BM,Transportation
+156.72500,0.00000,,Marine Channels Marine VHF 187,Ch 74  Vessel Traffic System,Marine 74,,FM,BM,Transportation
+156.75000,0.00000,,Marine Channels Marine VHF 187,Ch 15  EPIRB Buoys,Marine 15,,FM,M,Transportation
+156.77500,0.00000,,Marine Channels Marine VHF 187,Ch 75  Port Operations Ship Movement,Marine 75,,FM,BM,Transportation
+156.80000,0.00000,,Marine Channels Marine VHF 187,Ch 16  International DistressSafetyCalling,Marine 16,,FM,BM,Transportation
+156.82500,0.00000,,Marine Channels Marine VHF 187,Ch 76  Port Operations Ship Movement,Marine 76,,FM,BM,Transportation
+156.85000,0.00000,,Marine Channels Marine VHF 187,Ch 17  Vessel dockingmaneuvering,Marine 17,,FM,BM,Transportation
+156.87500,0.00000,,Marine Channels Marine VHF 187,Ch 77  Pilotage  vessel dockingmanoeuvers,Marine 77,,FM,BM,Transportation
+156.90000,0.00000,,Marine Channels Marine VHF 187,Ch 18  Port Operation Ship TX,Marine 18 TX,,FM,M,Transportation
+156.92500,0.00000,,Marine Channels Marine VHF 187,Ch 78A  IntershipShipshore  commercial,Marine 78A,,FM,BM,Transportation
+156.95000,0.00000,,Marine Channels Marine VHF 187,Ch 19  Port Operation Ship TX,Marine 19 TX,,FM,M,Transportation
+157.00000,0.00000,,Marine Channels Marine VHF 187,Ch 20  Port Operation,Marine 20,,FM,BM,Transportation
+157.02500,0.00000,,Marine Channels Marine VHF 187,Ch 80A  IntershipShipshore  commercial,Marine 80A,,FM,BM,Transportation
+157.05000,0.00000,,Marine Channels Marine VHF 187,Ch 21  Port Operation Ship TX,Marine 21,,FM,M,Transportation
+157.07500,0.00000,,Marine Channels Marine VHF 187,Ch 81A  Port Operation Canadian Coast Guard,Marine 81A,,FM,BM,Transportation
+157.10000,0.00000,,Marine Channels Marine VHF 187,Ch 22A  Coast Guard working,Marine 22A,,FM,BM,Transportation
+157.12500,0.00000,,Marine Channels Marine VHF 187,Ch 82A  Port Operation Canadian Coast Guard,Marine 82A,,FM,BM,Transportation
+157.15000,0.00000,,Marine Channels Marine VHF 187,Ch 23  Shipshore  telephone Ship TX,Marine 23 TX,,FM,M,Transportation
+157.17500,0.00000,,Marine Channels Marine VHF 187,Ch 83A  IntershipPort Operation Canadian Coast Guard,Marine 83A,,FM,BM,Transportation
+157.20000,0.00000,,Marine Channels Marine VHF 187,Ch 24  Shipshore  telephone Ship TX,Marine 24 TX,,FM,M,Transportation
+157.22500,0.00000,,Marine Channels Marine VHF 187,Ch 84  Shipshore  telephone Ship TX,Marine 84 TX,,FM,M,Transportation
+157.25000,0.00000,,Marine Channels Marine VHF 187,Ch 25  Shipshore  telephone Ship TX,Marine 25 TX,,FM,M,Transportation
+157.27500,0.00000,,Marine Channels Marine VHF 187,Ch 85  Shipshore  telephone Ship TX,Marine 85 TX,,FM,M,Transportation
+157.30000,0.00000,,Marine Channels Marine VHF 187,Ch 26  Shipshore  telephone Ship TX,Marine 26 TX,,FM,M,Transportation
+157.32500,0.00000,,Marine Channels Marine VHF 187,Ch 86  Shipshore  telephone Ship TX,Marine 86 TX,,FM,M,Transportation
+157.35000,0.00000,,Marine Channels Marine VHF 187,Ch 27  Shipshore  telephone Ship TX,Marine 27 TX,,FM,M,Transportation
+157.37500,0.00000,,Marine Channels Marine VHF 187,Ch 87  Shipshore  telephone Ship TX,Marine 87 TX,,FM,M,Transportation
+157.40000,0.00000,,Marine Channels Marine VHF 187,Ch 28  Shipshore  telephone Ship TX,Marine 28 TX,,FM,M,Transportation
+160.62500,0.00000,,Marine Channels Marine VHF 187,Ch 60  Shipshore  telephone Shore TX,Marine 60 RX,,FM,B,Transportation
+160.65000,0.00000,,Marine Channels Marine VHF 187,Ch 1  Shipshore  telephone Shore TX,Marine 1 RX,,FM,B,Transportation
+160.70000,0.00000,,Marine Channels Marine VHF 187,Ch 2  Shipshore  telephone Shore TX,Marine 2 RX,,FM,B,Transportation
+160.75000,0.00000,,Marine Channels Marine VHF 187,Ch 3  Shipshore  telephone Shore TX,Marine 3 RX,,FM,B,Transportation
+160.82500,0.00000,,Marine Channels Marine VHF 187,Ch 64  Shipshore  telephone Shore TX,Marine 64 RX,,FM,B,Transportation
+160.85000,0.00000,,Marine Channels Marine VHF 187,Ch 5  Shipshore  telephone Shore TX,Marine 5 RX,,FM,B,Transportation
+160.95000,0.00000,,Marine Channels Marine VHF 187,Ch 7  Shipshore  telephone Shore TX,Marine 7 RX,,FM,B,Transportation
+161.50000,0.00000,,Marine Channels Marine VHF 187,Ch 18  Port Operation Shore TX,Marine 18 RX,,FM,B,Transportation
+161.55000,0.00000,,Marine Channels Marine VHF 187,Ch 19  Port Operation Shore TX,Marine 19 RX,,FM,B,Transportation
+161.57500,0.00000,,Marine Channels Marine VHF 187,Ch 79B  Commercial Fishing  Receive only,Marine 79B,,FM,B,Transportation
+161.65000,0.00000,,Marine Channels Marine VHF 187,Ch 21  Port Operation Shore TX,Marine 21 RX,,FM,B,Transportation
+161.65000,0.00000,,Marine Channels Marine VHF 187,Ch 21B  Canadian Coast Guard  Weather Broadcasts,Marine 21B,,FM,B,Transportation
+161.75000,0.00000,,Marine Channels Marine VHF 187,Ch 23  Shipshore  telephone Shore TX,Marine 23 RX,,FM,B,Transportation
+161.80000,0.00000,,Marine Channels Marine VHF 187,Ch 24  Shipshore  telephone Shore TX,Marine 24 RX,,FM,B,Transportation
+161.82500,0.00000,,Marine Channels Marine VHF 187,Ch 84  Shipshore  telephone Shore TX,Marine 84 RX,,FM,B,Transportation
+161.85000,0.00000,,Marine Channels Marine VHF 187,Ch 25  Shipshore  telephone Shore TX,Marine 25 RX,,FM,B,Transportation
+161.87500,0.00000,,Marine Channels Marine VHF 187,Ch 85  Shipshore  telephone Shore TX,Marine 85 RX,,FM,B,Transportation
+161.90000,0.00000,,Marine Channels Marine VHF 187,Ch 26  Shipshore  telephone Shore TX,Marine 26 RX,,FM,B,Transportation
+161.92500,0.00000,,Marine Channels Marine VHF 187,Ch 86  Shipshore  telephone Shore TX,Marine 86 RX,,FM,B,Transportation
+161.95000,0.00000,,Marine Channels Marine VHF 187,Ch 27  Shipshore  telephone Shore TX,Marine 27 RX,,FM,B,Transportation
+161.97500,0.00000,,Marine Channels Marine VHF 187,Ch 87  Shipshore  telephone Shore TX,Marine 87 RX,,FM,B,Transportation
+161.97500,0.00000,,Marine Channels Marine Data,Ch 87B  AIS  Automatic Identification System,Marine 87B,,Telm,BM,Data
+162.00000,0.00000,,Marine Channels Marine VHF 187,Ch 28  Shipshore  telephone Shore TX,Marine 28 RX,,FM,B,Transportation
+162.02500,0.00000,,Marine Channels Marine Data,Ch 88B  AIS  Automatic Identification System,Marine 88B,,Telm,BM,Data

@@ -1,0 +1,11 @@
+Frequency Output,Frequency Input,FCC Callsign,Agency/Category,Description,Alpha Tag,PL Tone,Mode,Class Station Code,Tag
+116.00000,0.00000,,Common Military Snowbirds,Show Air to Air 1,SnowbirdsAA1,,AM,M,Military
+117.00000,0.00000,,Common Military Snowbirds,Show Air to Air 2,SnowbirdsAA2,,AM,M,Military
+123.32500,0.00000,,Common Military Snowbirds,Air to Air 3,SnowbirdsAA3,,AM,M,Military
+141.85000,0.00000,,Common Military Snowbirds,Air to Air 4,SnowbirdsAA4,,AM,M,Military
+242.60000,0.00000,,Common Military Snowbirds,Air to Air 5,SnowbirdsAA5,,AM,M,Military
+243.40000,0.00000,,Common Military Snowbirds,Show Secondary 20082010,Snowbirds S3,,AM,M,Military
+246.50000,0.00000,,Common Military Snowbirds,Show Secondary 20152016,Snowbirds S1,,AM,M,Military
+272.10000,0.00000,,Common Military Snowbirds,Show Primary 20082016,Snowbirds P,,AM,M,Military
+284.90000,0.00000,,Common Military Snowbirds,Show Secondary 20102014,Snowbirds S2,,AM,M,Military
+413.02500,0.00000,,Common Military Snowbirds,Ground Support,SnowbirdsGnd,,FM,M,Military

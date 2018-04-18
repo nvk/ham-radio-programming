@@ -1,0 +1,71 @@
+Frequency Output,Frequency Input,FCC Callsign,Agency/Category,Description,Alpha Tag,PL Tone,Mode,Class Station Code,Tag
+26.96500,0.00000,,General Public Use Citizens Band,Ch 1,CB Ch 01,CSQ,AM,BM,Other
+26.97500,0.00000,,General Public Use Citizens Band,Ch 2,CB Ch 02,CSQ,AM,BM,Other
+26.98500,0.00000,,General Public Use Citizens Band,Ch 3,CB Ch 03,CSQ,AM,BM,Other
+27.00500,0.00000,,General Public Use Citizens Band,Ch 4,CB Ch 04,CSQ,AM,BM,Other
+27.01500,0.00000,,General Public Use Citizens Band,Ch 5,CB Ch 05,CSQ,AM,BM,Other
+27.02500,0.00000,,General Public Use Citizens Band,Ch 6,CB Ch 06,CSQ,AM,BM,Other
+27.03500,0.00000,,General Public Use Citizens Band,Ch 7,CB Ch 07,CSQ,AM,BM,Other
+27.05500,0.00000,,General Public Use Citizens Band,Ch 8,CB Ch 08,CSQ,AM,BM,Other
+27.06500,0.00000,,General Public Use Citizens Band,Ch 9 Emergency or Travelers Aid,CB Ch 09,CSQ,AM,BM,Other
+27.07500,0.00000,,General Public Use Citizens Band,Ch 10,CB Ch 10,CSQ,AM,BM,Other
+27.08500,0.00000,,General Public Use Citizens Band,Ch 11,CB Ch 11,CSQ,AM,BM,Other
+27.10500,0.00000,,General Public Use Citizens Band,Ch 12,CB Ch 12,CSQ,AM,BM,Other
+27.11500,0.00000,,General Public Use Citizens Band,Ch 13,CB Ch 13,CSQ,AM,BM,Other
+27.12500,0.00000,,General Public Use Citizens Band,Ch 14,CB Ch 14,CSQ,AM,BM,Other
+27.13500,0.00000,,General Public Use Citizens Band,Ch 15,CB Ch 15,CSQ,AM,BM,Other
+27.15500,0.00000,,General Public Use Citizens Band,Ch 16 SSB mode also used,CB Ch 16,CSQ,AM,BM,Other
+27.16500,0.00000,,General Public Use Citizens Band,Ch 17,CB Ch 17,CSQ,AM,BM,Other
+27.17500,0.00000,,General Public Use Citizens Band,Ch 18,CB Ch 18,CSQ,AM,BM,Other
+27.18500,0.00000,,General Public Use Citizens Band,Ch 19 Highway Traffic,CB Ch 19,CSQ,AM,BM,Other
+27.20500,0.00000,,General Public Use Citizens Band,Ch 20,CB Ch 20,CSQ,AM,BM,Other
+27.21500,0.00000,,General Public Use Citizens Band,Ch 21,CB Ch 21,CSQ,AM,BM,Other
+27.22500,0.00000,,General Public Use Citizens Band,Ch 22,CB Ch 22,CSQ,AM,BM,Other
+27.23500,0.00000,,General Public Use Citizens Band,Ch 23,CB Ch 24,CSQ,AM,BM,Other
+27.24500,0.00000,,General Public Use Citizens Band,Ch 24,CB Ch 25,CSQ,AM,BM,Other
+27.25500,0.00000,,General Public Use Citizens Band,Ch 25,CB Ch 23,CSQ,AM,BM,Other
+27.26500,0.00000,,General Public Use Citizens Band,Ch 26,CB Ch 26,CSQ,AM,BM,Other
+27.27500,0.00000,,General Public Use Citizens Band,Ch 27,CB Ch 27,CSQ,AM,BM,Other
+27.28500,0.00000,,General Public Use Citizens Band,Ch 28,CB Ch 28,CSQ,AM,BM,Other
+27.29500,0.00000,,General Public Use Citizens Band,Ch 29,CB Ch 29,CSQ,AM,BM,Other
+27.30500,0.00000,,General Public Use Citizens Band,Ch 30,CB Ch 30,CSQ,AM,BM,Other
+27.31500,0.00000,,General Public Use Citizens Band,Ch 31,CB Ch 31,CSQ,AM,BM,Other
+27.32500,0.00000,,General Public Use Citizens Band,Ch 32,CB Ch 32,CSQ,AM,BM,Other
+27.33500,0.00000,,General Public Use Citizens Band,Ch 33,CB Ch 33,CSQ,AM,BM,Other
+27.34500,0.00000,,General Public Use Citizens Band,Ch 34,CB Ch 34,CSQ,AM,BM,Other
+27.35500,0.00000,,General Public Use Citizens Band,Ch 35,CB Ch 35,CSQ,AM,BM,Other
+27.36500,0.00000,,General Public Use Citizens Band,Ch 36 SSB mode also used,CB Ch 36,CSQ,AM,BM,Other
+27.37500,0.00000,,General Public Use Citizens Band,Ch 37 SSB mode also used,CB Ch 37,CSQ,AM,BM,Other
+27.38500,0.00000,,General Public Use Citizens Band,Ch 38 SSB mode also used,CB Ch 38,CSQ,AM,BM,Other
+27.39500,0.00000,,General Public Use Citizens Band,Ch 39 SSB mode also used,CB Ch 39,CSQ,AM,BM,Other
+27.40500,0.00000,,General Public Use Citizens Band,Ch 40 SSB mode also used,CB Ch 40,CSQ,AM,BM,Other
+462.55000,0.00000,,General Public Use General Mobile Repeater Service GMRS,15GMRS,462.5500,,FMN,BM,Other
+462.56250,0.00000,,General Public Use Family Radio Service,1FRS,FRS Ch 01,,FMN,M,Other
+462.57500,0.00000,,General Public Use General Mobile Repeater Service GMRS,16GMRS,462.5750,,FMN,BM,Other
+462.58750,0.00000,,General Public Use Family Radio Service,2FRS,FRS Ch 02,,FMN,M,Other
+462.60000,0.00000,,General Public Use General Mobile Repeater Service GMRS,17GMRS,462.6000,,FMN,BM,Other
+462.61250,0.00000,,General Public Use Family Radio Service,3FRS,FRS Ch 03,,FMN,M,Other
+462.62500,0.00000,,General Public Use General Mobile Repeater Service GMRS,18FRS,462.6250,,FMN,BM,Other
+462.63750,0.00000,,General Public Use Family Radio Service,4FRS,FRS Ch 04,,FMN,M,Other
+462.65000,0.00000,,General Public Use General Mobile Repeater Service GMRS,19GMRS,462.6500,,FMN,BM,Other
+462.66250,0.00000,,General Public Use Family Radio Service,5FRS,FRS Ch 05,,FMN,M,Other
+462.67500,0.00000,,General Public Use General Mobile Repeater Service GMRS,20GMRS,462.6750,,FMN,BM,Other
+462.68750,0.00000,,General Public Use Family Radio Service,6FRS,FRS Ch 06,,FMN,M,Other
+462.70000,0.00000,,General Public Use General Mobile Repeater Service GMRS,21GMRS,462.7000,,FMN,BM,Other
+462.71250,0.00000,,General Public Use Family Radio Service,7FRS,FRS Ch 07,,FMN,M,Other
+462.72500,0.00000,,General Public Use General Mobile Repeater Service GMRS,22GMRS,462.7250,,FMN,BM,Other
+467.55000,0.00000,,General Public Use General Mobile Repeater Service GMRS,Common Use,467.5500,,FMN,BM,Other
+467.56250,0.00000,,General Public Use Family Radio Service,8FRS,FRS Ch 08,,FMN,M,Other
+467.57500,0.00000,,General Public Use General Mobile Repeater Service GMRS,Common Use,467.5750,,FMN,BM,Other
+467.58750,0.00000,,General Public Use Family Radio Service,9FRS,FRS Ch 09,,FMN,M,Other
+467.60000,0.00000,,General Public Use General Mobile Repeater Service GMRS,Common Use,467.6000,,FMN,BM,Other
+467.61250,0.00000,,General Public Use Family Radio Service,10FRS,FRS Ch 10,,FMN,M,Other
+467.62500,0.00000,,General Public Use General Mobile Repeater Service GMRS,Common Use,467.6250,,FMN,BM,Other
+467.63750,0.00000,,General Public Use Family Radio Service,11FRS,FRS Ch 11,,FMN,M,Other
+467.65000,0.00000,,General Public Use General Mobile Repeater Service GMRS,Common Use,467.6500,,FMN,BM,Other
+467.66250,0.00000,,General Public Use Family Radio Service,12FRS,FRS Ch 12,,FMN,M,Other
+467.67500,0.00000,,General Public Use General Mobile Repeater Service GMRS,Common Use,467.6750,,FMN,BM,Other
+467.68750,0.00000,,General Public Use Family Radio Service,13FRS,FRS Ch 13,,FMN,M,Other
+467.70000,0.00000,,General Public Use General Mobile Repeater Service GMRS,Common Use,467.7000,,FMN,BM,Other
+467.71250,0.00000,,General Public Use Family Radio Service,14FRS,FRS Ch 14,,FMN,M,Other
+467.72500,0.00000,,General Public Use General Mobile Repeater Service GMRS,Common Use,467.7250,,FMN,BM,Other

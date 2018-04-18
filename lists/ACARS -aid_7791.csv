@@ -1,0 +1,12 @@
+Frequency Output,Frequency Input,FCC Callsign,Agency/Category,Description,Alpha Tag,PL Tone,Mode,Class Station Code,Tag
+129.12500,0.00000,,Aircraft Communications Addressing and Reporting System ACARS Aircraft Communications Addressing and Reporting System ACARS,ACARS,ACARS 129.125,CSQ,AM,BM,Data
+129.35000,0.00000,,Aircraft Communications Addressing and Reporting System ACARS Aircraft Communications Addressing and Reporting System ACARS,ACARS,ACARS 129.35,CSQ,AM,BM,Data
+129.52500,0.00000,,Aircraft Communications Addressing and Reporting System ACARS Aircraft Communications Addressing and Reporting System ACARS,ACARS,ACARS 129.525,CSQ,AM,BM,Data
+130.02500,0.00000,,Aircraft Communications Addressing and Reporting System ACARS Aircraft Communications Addressing and Reporting System ACARS,ACARS,ACARS 130.025,CSQ,AM,BM,Data
+130.45000,0.00000,,Aircraft Communications Addressing and Reporting System ACARS Aircraft Communications Addressing and Reporting System ACARS,ACARS High Traffic Areas,ACARS 130.450,CSQ,AM,BM,Data
+131.12500,0.00000,,Aircraft Communications Addressing and Reporting System ACARS Aircraft Communications Addressing and Reporting System ACARS,ACARS High Traffic Areas,ACARS 131.125,CSQ,AM,BM,Data
+131.55000,0.00000,,Aircraft Communications Addressing and Reporting System ACARS Aircraft Communications Addressing and Reporting System ACARS,ARINCAmericas Base Frequency,ACARS ARINC Base,CSQ,AM,BM,Data
+131.72500,0.00000,,Aircraft Communications Addressing and Reporting System ACARS Aircraft Communications Addressing and Reporting System ACARS,SITA Base Frequency,ACARS SITA Base,CSQ,AM,BM,Data
+136.75000,0.00000,,Aircraft Communications Addressing and Reporting System ACARS Aircraft Communications Addressing and Reporting System ACARS,ACARS,ACARS 136.75,CSQ,AM,BM,Data
+136.80000,0.00000,,Aircraft Communications Addressing and Reporting System ACARS Aircraft Communications Addressing and Reporting System ACARS,ACARS,ACARS 136.8,CSQ,AM,BM,Data
+136.97500,0.00000,,Aircraft Communications Addressing and Reporting System ACARS Aircraft Communications Addressing and Reporting System ACARS,VHF Data Link VDL Mode 2,VDL Mode 2,CSQ,AM,BM,Data

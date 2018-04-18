@@ -1,0 +1,44 @@
+Frequency Output,Frequency Input,FCC Callsign,Agency/Category,Description,Alpha Tag,PL Tone,Mode,Class Station Code,Tag
+121.50000,0.00000,,Common Aviation Aviation,Aircraft Emergency and Distress VHF Guard,VHF Guard,,AM,M,Aircraft
+121.77500,0.00000,,Common Aviation Aviation,Emergency Locator Transmitter ELT Training Beacons,ELT Training,,AM,M,Aircraft
+121.95000,0.00000,,Common Aviation Aviation,Aviation Support,AvSup 121.95,,AM,M,Business
+122.00000,0.00000,,Common Aviation Aviation,Flight Watch Weather,Flt Watch Wx,,AM,M,Aircraft
+122.70000,0.00000,,Common Aviation Aviation,Unicom,FAA 122.700,,AM,M,Aircraft
+122.72500,0.00000,,Common Aviation Aviation,Unicom,FAA 122.725,,AM,M,Aircraft
+122.75000,0.00000,,Common Aviation Aviation,Fixed wing aircraft airtoair,Fixed Air-Air,,AM,M,Aircraft
+122.77500,0.00000,,Common Aviation Aviation,Aviation Support,AvSup 122.775,,AM,M,Business
+122.80000,0.00000,,Common Aviation Aviation,Unicom,FAA 122.8,,AM,M,Aircraft
+122.85000,0.00000,,Common Aviation Aviation,Multicom Aviation Support,Multi 122.85,,AM,M,Aircraft
+122.90000,0.00000,,Common Aviation Aviation,Multicom Search and Rescue Training,Multi 122.9,,AM,M,Aircraft
+122.92500,0.00000,,Common Aviation Aviation,Multicom  Special Use Natural resource management,Multi 122.925,,AM,M,Aircraft
+122.95000,0.00000,,Common Aviation Aviation,Unicom  Controlled Airports,Unicom 122.95,CSQ,AM,BM,Aircraft
+122.97500,0.00000,,Common Aviation Aviation,Unicom,FAA 122.975,,AM,M,Aircraft
+123.00000,0.00000,,Common Aviation Aviation,Unicom,FAA 123.000,,AM,M,Aircraft
+123.02500,0.00000,,Common Aviation Aviation,Helicopter AirtoAir,Heli Air-Air,,AM,M,Aircraft
+123.05000,0.00000,,Common Aviation Aviation,Unicom,FAA 123.05,,AM,M,Aircraft
+123.07500,0.00000,,Common Aviation Aviation,Unicom,FAA 123.075,,AM,M,Aircraft
+123.10000,0.00000,,Common Aviation Aviation,Search and Rescue primary ATC for special events secondary,SAR Primary,,AM,M,Aircraft
+123.12500,0.00000,,Common Aviation Aviation,Flight Test itinerant,FlightTest123.12,,AM,M,Business
+123.15000,0.00000,,Common Aviation Aviation,Flight Test itinerant,FlightTest123.15,,AM,M,Business
+123.17500,0.00000,,Common Aviation Aviation,Flight Test itinerant,FlightTest123.17,,AM,M,Business
+123.20000,0.00000,,Common Aviation Aviation,Flight Test,FlightTest123.2,,AM,M,Business
+123.22500,0.00000,,Common Aviation Aviation,Flight Test,FlightTest123.22,,AM,M,Business
+123.25000,0.00000,,Common Aviation Aviation,Flight Test,FlightTest123.25,,AM,M,Business
+123.27500,0.00000,,Common Aviation Aviation,Flight Test,FlightTest123.27,,AM,M,Business
+123.30000,0.00000,,Common Aviation Aviation,Aviation Support,AvSup 123.3,,AM,M,Business
+123.32500,0.00000,,Common Aviation Aviation,Flight Test,FlightTest123.32,,AM,M,Business
+123.35000,0.00000,,Common Aviation Aviation,Flight Test,FlightTest123.35,,AM,M,Business
+123.37500,0.00000,,Common Aviation Aviation,Flight Test,FlightTest123.37,,AM,M,Business
+123.40000,0.00000,,Common Aviation Aviation,Flight Test itinerant,FlightTest123.4,,AM,M,Business
+123.42500,0.00000,,Common Aviation Aviation,Flight Test itinerant,FlightTest123.42,,AM,M,Business
+123.45000,0.00000,,Common Aviation Aviation,Flight TestUnofficial AirtoAir,FlightTest123.45,,AM,M,Business
+123.47500,0.00000,,Common Aviation Aviation,Flight Test,FlightTest123.47,,AM,M,Business
+123.50000,0.00000,,Common Aviation Aviation,Aviation Support,AvSup 123.5,,AM,M,Business
+123.52500,0.00000,,Common Aviation Aviation,Flight Test,FlightTest123.52,,AM,M,Business
+123.55000,0.00000,,Common Aviation Aviation,Flight Test,FlightTest123.55,,AM,M,Business
+123.57500,0.00000,,Common Aviation Aviation,Flight Test,FlightTest123.57,,AM,M,Business
+126.20000,0.00000,,Common Aviation Aviation,Military Common advisory,MilCom 126.2,,AM,M,Aircraft
+129.52500,0.00000,,Common Aviation Aviation,Deicing Common,Deicing Comm,,AM,M,Business
+134.10000,0.00000,,Common Aviation Aviation,Military Common advisory,MilCom 134.1,,AM,M,Aircraft
+135.85000,0.00000,,Common Aviation Aviation,FAA Flight Inspection,FltIns135.85,,AM,M,Federal
+135.95000,0.00000,,Common Aviation Aviation,FAA Flight Inspection,FltIns135.95,,AM,M,Federal
